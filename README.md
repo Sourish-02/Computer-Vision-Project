@@ -31,3 +31,7 @@ The repository contains weekly notes, implementation notebooks, experiments, rep
 - Residual Blocks based image classifier
 - Data augmentation pipeline
 - Comparative evaluation against baseline CNN models
+
+**Results:**
+
+Model performance metrics, training curves, confusion matrices, and experimental findings are available in the corresponding notebooks and reports.
