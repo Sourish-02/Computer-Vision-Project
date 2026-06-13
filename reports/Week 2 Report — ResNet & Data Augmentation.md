@@ -10,11 +10,8 @@ The objective of this week's project was twofold:
 ### Evaluation Metrics
 The CNN trained during Week 1 was evaluated using:
 - Classification Report
-![[Pasted image 20260613132823.png]]
 - Confusion Matrix
-![[Pasted image 20260613132837.png]]
 - Per-Class Accuracy
-![[Pasted image 20260613132906.png]]
 These metrics provide a more detailed understanding of model performance than overall accuracy alone.
 
 ### Observations
@@ -73,11 +70,8 @@ The best-performing model was automatically saved using validation accuracy as t
 ## Validation and Performance Analysis
 Model performance was evaluated on the validation set using:
 - Validation Accuracy
-![[Pasted image 20260613133025.png]]
 - Classification Report
-![[Pasted image 20260613133059.png]]
 - Confusion Matrix
-![[Pasted image 20260613133036.png]]
 These metrics were used to identify class-specific strengths and weaknesses and to assess the effectiveness of residual learning and data augmentation.
 
 ---
