@@ -74,7 +74,7 @@ Training was accelerated using CUDA-enabled GPU hardware.
 
 ---
 ## Results
-The model demonstrated strong performance on FashionMNIST and achieved approximately 88% test accuracy after the first epoch, with further improvements observed during subsequent training.
+The model demonstrated strong performance on FashionMNIST and achieved approximately 88% test accuracy after the first epoch, with further improvements observed during subsequent training, reaching 92.6% after the tenth epoch.
 The CNN significantly outperformed a simple fully-connected neural network by exploiting spatial patterns through convolutional layers.
 
 ---
