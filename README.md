@@ -26,7 +26,7 @@ The repository contains weekly theory notes, implementation notebooks, experimen
 
 **Progress Tracker**
 
-1. Week 1 — Neural Networks & CNNs
+1. Week 1 — Neural Networks & CNNs (29th May- 4th June)
 
 **Topics Covered:** Perceptrons and Neural Networks, Activation Functions, Forward Propagation, Backpropagation, Gradient Descent, Loss Functions, PyTorch Fundamentals (Tensors, Autograd, nn.Module, Dataset/DataLoader), Convolutional Neural Networks (Kernels and Filters, Stride and Padding, Pooling Layers
 
@@ -35,7 +35,7 @@ The repository contains weekly theory notes, implementation notebooks, experimen
 - CNN-based image classification pipeline
 
 ---
-2. Week 2 — ResNet & Data Augmentation
+2. Week 2 — ResNet & Data Augmentation (5th June- 11th June)
 
 **Topics Covered:** Challenges in Deep Neural Networks (Vanishing Gradients, Degradation Problem), Residual Learning, Batch Normalization, ResNet-18 Architecture, Data Augmentation, Normalization, Overfitting Prevention Techniques
 
@@ -45,7 +45,7 @@ The repository contains weekly theory notes, implementation notebooks, experimen
 - Comparative evaluation against baseline CNN models
 
 ---
-3. Week 3 — Transfer Learning
+3. Week 3 — Transfer Learning (12th June- 17th June)
 
 **Topics Covered:** Transfer Learning, Feature Extraction, Frozen Backbone Training, Fine-Tuning, Learning Rate Scheduling, AdamW Optimizer, Model Checkpointing, Performance Evaluation
 
