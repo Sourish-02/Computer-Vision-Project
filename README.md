@@ -61,3 +61,8 @@ The repository contains weekly implementation notebooks, experimental reports, c
 Model performance metrics, training curves, confusion matrices, classification reports, and experimental findings are documented in the corresponding notebooks and reports.
 
 ---
+
+## Acknowledgements
+
+This project was completed as part of the **CAIC Summer of Technology – Computer Vision Track**. The assignments, datasets, and learning roadmap were provided by the organizers, while all implementations, experiments, notes, reports, and analyses in this repository were completed by me.
+Official course repository: <[GitHub link](https://github.com/ishananand06/CSOT26_Computer-Vision/)>
