@@ -6,7 +6,7 @@ This repository documents my work throughout the Computer Vision track of CAIC S
 
 The track focuses on building a strong foundation in deep learning and modern computer vision, progressing from neural networks and convolutional architectures to transfer learning, object detection, tracking, and advanced visual intelligence systems.
 
-The repository contains weekly theory notes, implementation notebooks, experimental reports, competition submissions, and performance analyses completed during the program.
+The repository contains weekly implementation notebooks, experimental reports, competition submissions, and performance analyses completed during the program.
 
 ---
 
