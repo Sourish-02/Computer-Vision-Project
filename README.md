@@ -75,20 +75,9 @@ Model performance metrics, training curves, confusion matrices, classification r
 
 ---
 ## Project Timeline
-Week 1 → CNNs
-        ↓
-        
-Week 2 → ResNet
-        ↓
-        
-Week 3 → Transfer Learning
-        ↓
-        
-Week 4–5 → YOLO + SORT
-        ↓
-        
-Week 6 → Final Project
-
+Week 1 ──► Week 2 ──► Week 3 ──► Week 4–5 ──► Week 6
+ CNNs      ResNet    Transfer     YOLO+SORT    Final Project
+ 
 ---
 ## Acknowledgements
 
