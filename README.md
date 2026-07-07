@@ -56,12 +56,36 @@ The repository contains weekly implementation notebooks, experimental reports, c
 - Comparative evaluation of CNN, Frozen Backbone, and Fine-Tuned models
 
 ---
+4. Week 4–5 — Object Detection & Multi-Object Tracking (18th June–30th June)
+
+**Topics Covered:** YOLOv8, Bounding Box Regression, Object Detection, Confidence Thresholding, Video Inference, Kalman Filter, Hungarian Algorithm, SORT, Multi-Object Tracking, Intersection over Union (IoU), Tracking-by-Detection
+
+**Deliverables:**
+- YOLOv8-based real-time object detector
+- Video inference pipeline
+- SORT multi-object tracker
+- Kalman Filter implementation for state estimation
+- Hungarian Algorithm for data association
+- Object detection and tracking on real-world video sequences
+
+---
 ## Results
 
 Model performance metrics, training curves, confusion matrices, classification reports, and experimental findings are documented in the corresponding notebooks and reports.
 
 ---
+## Project Timeline
+Week 1 → CNNs
+        ↓
+Week 2 → ResNet
+        ↓
+Week 3 → Transfer Learning
+        ↓
+Week 4–5 → YOLO + SORT
+        ↓
+Week 6 → Final Project
 
+---
 ## Acknowledgements
 
 This project was completed as part of the **CAIC Summer of Technology – Computer Vision Track**. The assignments, datasets, and learning roadmap were provided by the organizers, while all implementations, experiments, notes, reports, and analyses in this repository were completed by me.
