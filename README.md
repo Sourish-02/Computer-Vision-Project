@@ -82,7 +82,7 @@ Model performance metrics, training curves, confusion matrices, classification r
 | ✅ Week 2 | ResNet & Data Augmentation |
 | ✅ Week 3 | Transfer Learning |
 | ✅ Week 4–5 | YOLOv8 & Multi-Object Tracking |
-| 🔒 Week 6 | Final Project |
+| ✅ Week 6 | Final Project |
  
 ---
 ## Acknowledgements
