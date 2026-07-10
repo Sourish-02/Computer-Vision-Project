@@ -69,6 +69,19 @@ The repository contains weekly implementation notebooks, experimental reports, c
 - Object detection and tracking on real-world video sequences
 
 ---
+5. Week 6 — Final Project (2nd July–9th July)
+
+**Topics Covered:** Advanced Multi-Object Tracking, DeepSORT, Appearance Embeddings, Re-Identification, Mahalanobis Gating, Matching Cascade, Adaptive Kalman Filter, Trajectory Interpolation, Hybrid Tracking Pipeline
+
+**Deliverables:**
+- DeepSORT-inspired hybrid tracker
+- Adaptive Kalman Filter with confidence-aware process noise
+- Appearance-based ReID feature extraction
+- Mahalanobis + IoU based data association
+- Trajectory interpolation for missed detections
+- Improved tracking on challenging crowded video sequences
+
+---
 ## Results
 
 Model performance metrics, training curves, confusion matrices, classification reports, and experimental findings are documented in the corresponding notebooks and reports.
