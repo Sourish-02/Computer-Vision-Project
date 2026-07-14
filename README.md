@@ -34,6 +34,8 @@ The repository contains weekly implementation notebooks, experimental reports, c
 - Neural Network implementation in PyTorch
 - CNN-based image classification pipeline
 
+**Dataset:** FashionMNIST
+
 ---
 2. Week 2 — ResNet & Data Augmentation (5th June- 11th June)
 
@@ -43,6 +45,8 @@ The repository contains weekly implementation notebooks, experimental reports, c
 - Residual Blocks based image classifier
 - Data augmentation pipeline
 - Comparative evaluation against baseline CNN models
+
+**Dataset:** EuroSAT
 
 ---
 3. Week 3 — Transfer Learning (12th June- 17th June)
@@ -54,6 +58,8 @@ The repository contains weekly implementation notebooks, experimental reports, c
 - Frozen ResNet-18 transfer learning pipeline
 - Fine-tuned ResNet-18 model
 - Comparative evaluation of CNN, Frozen Backbone, and Fine-Tuned models
+
+**Dataset:** EuroSAT
 
 ---
 4. Week 4–5 — Object Detection & Multi-Object Tracking (18th June–30th June)
@@ -68,6 +74,8 @@ The repository contains weekly implementation notebooks, experimental reports, c
 - Hungarian Algorithm for data association
 - Object detection and tracking on real-world video sequences
 
+**Dataset:** MOT16
+
 ---
 5. Week 6 — Final Project (2nd July–9th July)
 
@@ -80,6 +88,8 @@ The repository contains weekly implementation notebooks, experimental reports, c
 - Mahalanobis + IoU based data association
 - Trajectory interpolation for missed detections
 - Improved tracking on challenging crowded video sequences
+
+**Dataset:** MOT20
 
 ---
 ## Results
