@@ -96,6 +96,8 @@ The repository contains weekly implementation notebooks, experimental reports, c
 
 Model performance metrics, training curves, confusion matrices, classification reports, and experimental findings are documented in the corresponding notebooks and reports.
 
+Ranked #5 on the leaderboard of CAIC Summer of Technology- Computer Vision Track
+
 ---
 ## Project Timeline
 
